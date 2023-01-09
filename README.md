@@ -16,3 +16,4 @@ Mijn leerkracht zegt wel eens:
 
 ## Visual Studio Code 
 Visual Studio Code is toch **echt** wel een editor met veel mogelijkheden!
+Dit is een laatste regel voor dit MD-bestand.
