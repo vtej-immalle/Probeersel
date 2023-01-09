@@ -13,3 +13,6 @@ Mijn leerkracht zegt wel eens:
 
 
 :smiling_imp:
+
+## Visual Studio Code 
+Visual Studio Code is toch **echt** wel een editor met veel mogelijkheden!
